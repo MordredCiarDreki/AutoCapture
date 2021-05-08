@@ -1,0 +1,12 @@
+    //  INSTRUCTIONS: PLEASE READ CAREFULLY.
+
+    /* TO WORK:
+     *          1: ATTACH SCRIPT TO GAMEOBJECT YOU WISH TO CAPTURE ON YOUR SCENE.
+     *          2: SUPPLY
+     *              2a: FILE NAME.
+     *              2b: FOLDER NAME.
+     *              2d: CAMERA SIZE.
+     *          3: ADJUST ANY OTHER SETTINGS
+     *          4: PLAY SCENE
+     *          5: PRESS NUMPAD 0 TO BEGIN CAPTURE
+    */
